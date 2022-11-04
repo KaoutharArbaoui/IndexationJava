@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>تعتبر</word> 
+ <lemma>اعْتَبَرَ</lemma>
+</res>
+<res>
+<word>التربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>الوطنية</word> 
+ <lemma>وَطَنِيَّة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الوظائف</word> 
+ <lemma>وَظِيفَة</lemma>
+</res>
+<res>
+<word>الأساسية</word> 
+ <lemma>أَسَاسِيّ</lemma>
+</res>
+<res>
+<word>للمدرسة</word> 
+ <lemma>مَدْرَسَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فبدونها</word> 
+ <lemma>دُون</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>التربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>كاملة</word> 
+ <lemma>كَامِل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يتعلم</word> 
+ <lemma>تَعَلَّمَ</lemma>
+</res>
+<res>
+<word>المرء</word> 
+ <lemma>مَرْء</lemma>
+</res>
+<res>
+<word>حرفة</word> 
+ <lemma>حِرْفَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الحرف</word> 
+ <lemma>حَرْف</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>حد</word> 
+ <lemma>حَدّ</lemma>
+</res>
+<res>
+<word>الإتقان</word> 
+ <lemma>إِتْقَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وقد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يتثقف</word> 
+ <lemma>تَثَقَّفَ</lemma>
+</res>
+<res>
+<word>ثقافة</word> 
+ <lemma>ثَقَافَة</lemma>
+</res>
+<res>
+<word>عالية</word> 
+ <lemma>عَالِيَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولكن</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>بدون</word> 
+ <lemma>دُون</lemma>
+</res>
+<res>
+<word>تربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>وطنية</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>صالحة</word> 
+ <lemma>صَالِح</lemma>
+</res>
+<res>
+<word> ، </word> 
+ <lemma> ، </lemma>
+</res>
+<res>
+<word>لن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>ينفع</word> 
+ <lemma>نَفَعَ</lemma>
+</res>
+<res>
+<word>وطنه</word> 
+ <lemma>وَطَن</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>شيء</word> 
+ <lemma>شَيْء</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>بالتربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>الوطنية</word> 
+ <lemma>وَطَنِيّ</lemma>
+</res>
+<res>
+<word>يدرك</word> 
+ <lemma>أَدْرَكَ</lemma>
+</res>
+<res>
+<word>المرء</word> 
+ <lemma>مَرْء</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>جزء</word> 
+ <lemma>جُزْء</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>أمته</word> 
+ <lemma>أُمَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>منفصل</word> 
+ <lemma>مُنْفَصِل</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يشاركها</word> 
+ <lemma>شَارَكَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذكريات</word> 
+ <lemma>ذِكْرَيَات</lemma>
+</res>
+<res>
+<word>ماضيها</word> 
+ <lemma>مَاضِي</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حوادث</word> 
+ <lemma>حَادِث</lemma>
+</res>
+<res>
+<word>حاضرها</word> 
+ <lemma>حَاضَرَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وفي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أماني</word> 
+ <lemma>أَمَانِي</lemma>
+</res>
+<res>
+<word>مستقبلها</word> 
+ <lemma>مُسْتَقْبَل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتكتسب</word> 
+ <lemma>اكْتَسَبَ</lemma>
+</res>
+<res>
+<word>حياته</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>معنى</word> 
+ <lemma>مَعْنًى</lemma>
+</res>
+<res>
+<word>جديدا</word> 
+ <lemma>جَدِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+<res>
+<word>يشعر</word> 
+ <lemma>شَعَرَ</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يحيى</word> 
+ <lemma>يَحْيَى</lemma>
+</res>
+<res>
+<word>لخدمة</word> 
+ <lemma>خِدْمَة</lemma>
+</res>
+<res>
+<word>بلاده</word> 
+ <lemma>بِلَاد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>لمجرد</word> 
+ <lemma>مُجَرَّد</lemma>
+</res>
+<res>
+<word>السعي</word> 
+ <lemma>سَعْي</lemma>
+</res>
+<res>
+<word>وراء</word> 
+ <lemma>وَرَاء</lemma>
+</res>
+<res>
+<word>مصلحته</word> 
+ <lemma>مَصْلَحَة</lemma>
+</res>
+<res>
+<word>الخاصة</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

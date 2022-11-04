@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>أطفئ</word> 
+ <lemma>طَفَّأَ</lemma>
+</res>
+<res>
+<word>النور</word> 
+ <lemma>نُور</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ونم</word> 
+ <lemma>نَامَ</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الليالي</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>الصيفية</word> 
+ <lemma>صَيْفِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فتحت</word> 
+ <lemma>فَتَحَ</lemma>
+</res>
+<res>
+<word>أمي</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>باب</word> 
+ <lemma>بَاب</lemma>
+</res>
+<res>
+<word>غرفة</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>نومي</word> 
+ <lemma>نَوْم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فوجدتني</word> 
+ <lemma>وَجَدَ</lemma>
+</res>
+<res>
+<word>جالسا</word> 
+ <lemma>جَالِس</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حاشية</word> 
+ <lemma>حَاشِيَة</lemma>
+</res>
+<res>
+<word>السرير</word> 
+ <lemma>سَرِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وبين</word> 
+ <lemma>بَيْن</lemma>
+</res>
+<res>
+<word>يدي</word> 
+ <lemma>يَد</lemma>
+</res>
+<res>
+<word>كتاب</word> 
+ <lemma>كِتَاب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ضحكت</word> 
+ <lemma>ضَحِكَ</lemma>
+</res>
+<res>
+<word>مني</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>تراني</word> 
+ <lemma>رَأَى</lemma>
+</res>
+<res>
+<word>أميل</word> 
+ <lemma>مَيْل</lemma>
+</res>
+<res>
+<word>ذات</word> 
+ <lemma>ذَات</lemma>
+</res>
+<res>
+<word>اليمين</word> 
+ <lemma>يَمِين</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وذات</word> 
+ <lemma>ذَات</lemma>
+</res>
+<res>
+<word>اليسار</word> 
+ <lemma>يَسَار</lemma>
+</res>
+<res>
+<word>أكاد</word> 
+ <lemma>كَادَ</lemma>
+</res>
+<res>
+<word>أسقط</word> 
+ <lemma>أَسْقَطَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الأرض</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فهمت</word> 
+ <lemma>فَهِمَ</lemma>
+</res>
+<res>
+<word>أمي</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>أني</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>أستطيع</word> 
+ <lemma>اسْتَطَاعَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>أنام</word> 
+ <lemma>نَامَ</lemma>
+</res>
+<res>
+<word>قبل</word> 
+ <lemma>قَبْلَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>أنهي</word> 
+ <lemma>أَنْهَى</lemma>
+</res>
+<res>
+<word>قراءة</word> 
+ <lemma>قِرَاءَة</lemma>
+</res>
+<res>
+<word>القصة</word> 
+ <lemma>قِصَّة</lemma>
+</res>
+<res>
+<word>الشيقة</word> 
+ <lemma>شِيقَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فاجأتني</word> 
+ <lemma>فَاجَأَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأنا</word> 
+ <lemma>أَنَا</lemma>
+</res>
+<res>
+<word>أتمايل</word> 
+ <lemma>مَايَلَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فانتبهت</word> 
+ <lemma>انْتَبَهَ</lemma>
+</res>
+<res>
+<word>فزعا</word> 
+ <lemma>فَزَع</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>جميل</word> 
+ <lemma>جَمِيل</lemma>
+</res>
+<res>
+<word> ، </word> 
+ <lemma> ، </lemma>
+</res>
+<res>
+<word>يابني</word> 
+ <lemma>يابني</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تملأ</word> 
+ <lemma>مَلَأَ</lemma>
+</res>
+<res>
+<word>فراغك</word> 
+ <lemma>فَرَاغ</lemma>
+</res>
+<res>
+<word>بقراءة</word> 
+ <lemma>قِرَاءَة</lemma>
+</res>
+<res>
+<word>القصص</word> 
+ <lemma>قِصَّة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لكن</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>ينبغي</word> 
+ <lemma>انْبَغَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تفهم</word> 
+ <lemma>فَهِمَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>السهر</word> 
+ <lemma>سَهَر</lemma>
+</res>
+<res>
+<word>يضر</word> 
+ <lemma>ضَرَّ</lemma>
+</res>
+<res>
+<word>بالصحة</word> 
+ <lemma>صِحَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فيؤذي</word> 
+ <lemma>آذَى</lemma>
+</res>
+<res>
+<word>العينين</word> 
+ <lemma>عَيْن</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويهزل</word> 
+ <lemma>هَزَلَ</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويرهق</word> 
+ <lemma>رَهَّقَ</lemma>
+</res>
+<res>
+<word>العقل</word> 
+ <lemma>عَقْل</lemma>
+</res>
+<res>
+<word>والنفس</word> 
+ <lemma>نَفْس</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>أجبتها</word> 
+ <lemma>أَجَابَ</lemma>
+</res>
+<res>
+<word>بعينين</word> 
+ <lemma>عَيْن</lemma>
+</res>
+<res>
+<word>ناعستين</word> 
+ <lemma>نَاعِس</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>لكنني</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>أنام</word> 
+ <lemma>نَامَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>النهار</word> 
+ <lemma>نَهَار</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+<res>
+<word>ردت</word> 
+ <lemma>رَدَّ</lemma>
+</res>
+<res>
+<word>أمي</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>باسمة</word> 
+ <lemma>بَاسِم</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>نحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>نعمل</word> 
+ <lemma>عَمِلَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>النهار</word> 
+ <lemma>نَهَار</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>ننام</word> 
+ <lemma>نَامَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الليل</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>ينبغي</word> 
+ <lemma>انْبَغَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>نخلط</word> 
+ <lemma>خَلَّطَ</lemma>
+</res>
+<res>
+<word>بينهما</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فنحول</word> 
+ <lemma>حَالَ</lemma>
+</res>
+<res>
+<word>النهار</word> 
+ <lemma>نَهَار</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>ليل</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والليل</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>نهار</word> 
+ <lemma>نَهَار</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>إن</word> 
+ <lemma>إِنْ</lemma>
+</res>
+<res>
+<word>كثيرا</word> 
+ <lemma>كَثِير</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الناس</word> 
+ <lemma>نَاس</lemma>
+</res>
+<res>
+<word>يغضبون</word> 
+ <lemma>أَغْضَبَ</lemma>
+</res>
+<res>
+<word>ويقلقون</word> 
+ <lemma>أَقْلَقَ</lemma>
+</res>
+<res>
+<word>بسرعة</word> 
+ <lemma>سُرْعَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لأنهم</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يأخذون</word> 
+ <lemma>أَخَذَ</lemma>
+</res>
+<res>
+<word>قسطا</word> 
+ <lemma>قِسْط</lemma>
+</res>
+<res>
+<word>كافيا</word> 
+ <lemma>كَافِي</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>النوم</word> 
+ <lemma>نَوْم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يستريح</word> 
+ <lemma>اسْتَرَاحَ</lemma>
+</res>
+<res>
+<word>خلاله</word> 
+ <lemma>خِلَال</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>والعقل</word> 
+ <lemma>عَقْل</lemma>
+</res>
+<res>
+<word>معا</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كي</word> 
+ <lemma>كَيْ</lemma>
+</res>
+<res>
+<word>يستطيعوا</word> 
+ <lemma>اسْتَطَاعَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>يؤدوا</word> 
+ <lemma>أَدَّى</lemma>
+</res>
+<res>
+<word>عملهم</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>جيدا</word> 
+ <lemma>جَيِّد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويفكروا</word> 
+ <lemma>فَكَّرَ</lemma>
+</res>
+<res>
+<word>جيدا</word> 
+ <lemma>جَيِّد</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>إذن</word> 
+ <lemma>إِذْن</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ماذا</word> 
+ <lemma>مَاذَا</lemma>
+</res>
+<res>
+<word>ستفعل</word> 
+ <lemma>فَعَلَ</lemma>
+</res>
+<res>
+<word>الان</word> 
+ <lemma>الان</lemma>
+</res>
+<res>
+<word>يا</word> 
+ <lemma>يَا</lemma>
+</res>
+<res>
+<word>بني</word> 
+ <lemma>بَنِي</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+
+<res>
+<word>طأطأت</word> 
+ <lemma>طَأْطَأَ</lemma>
+</res>
+<res>
+<word>رأسي</word> 
+ <lemma>رَأْس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثُمَّ</lemma>
+</res>
+<res>
+<word>أجبتها</word> 
+ <lemma>أَجَابَ</lemma>
+</res>
+<res>
+<word>بصوت</word> 
+ <lemma>صَوْت</lemma>
+</res>
+<res>
+<word>ثقيل</word> 
+ <lemma>ثَقِيل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأنا</word> 
+ <lemma>أَنَا</lemma>
+</res>
+<res>
+<word>أتثاءب</word> 
+ <lemma>تَثَاءَبَ</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+
+<res>
+<word>س</word> 
+ <lemma>وَسَى</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>سأنا</word> 
+ <lemma>سأنا</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>م</word> 
+ <lemma>م</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>فوراأ</word> 
+ <lemma>فوراأ</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>يقولون</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word>(( </word> 
+ <lemma>(( </lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الدماغ</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>الإلكتروني</word> 
+ <lemma>إِلِكْتُرُون</lemma>
+</res>
+<res>
+<word>يحسب</word> 
+ <lemma>حَسِبَ</lemma>
+</res>
+<res>
+<word>أحسن</word> 
+ <lemma>أَحْسَنَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>البشر</word> 
+ <lemma>بَشَر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويفكر</word> 
+ <lemma>فَكَّرَ</lemma>
+</res>
+<res>
+<word>تفكيرا</word> 
+ <lemma>تَفْكِير</lemma>
+</res>
+<res>
+<word>أصح</word> 
+ <lemma>أَصَحّ</lemma>
+</res>
+<res>
+<word>وأدق</word> 
+ <lemma>أَدَقّ</lemma>
+</res>
+<res>
+<word>)) </word> 
+ <lemma>)) </lemma>
+</res>
+<res>
+<word>يقولون</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>إعلاء</word> 
+ <lemma>إِعْلَاء</lemma>
+</res>
+<res>
+<word>لشأن</word> 
+ <lemma>شَأْن</lemma>
+</res>
+<res>
+<word>العلم</word> 
+ <lemma>عِلْم</lemma>
+</res>
+<res>
+<word>والعلماء</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وإظهارا</word> 
+ <lemma>إِظْهَار</lemma>
+</res>
+<res>
+<word>لأهمية</word> 
+ <lemma>أَهَمِّيَّة</lemma>
+</res>
+<res>
+<word>الإبداع</word> 
+ <lemma>إِبْدَاع</lemma>
+</res>
+<res>
+<word>والإبتكار</word> 
+ <lemma>والإبتكار</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>قول</word> 
+ <lemma>قَوْل</lemma>
+</res>
+<res>
+<word>صحيح</word> 
+ <lemma>صَحِيح</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لكنه</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فالدماغ</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>الإلكتروني</word> 
+ <lemma>إِلِكْتُرُون</lemma>
+</res>
+<res>
+<word>يحسب</word> 
+ <lemma>حَسِبَ</lemma>
+</res>
+<res>
+<word>بلا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>إحساس</word> 
+ <lemma>إِحْسَاس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والناس</word> 
+ <lemma>نَاس</lemma>
+</res>
+<res>
+<word>بحاجة</word> 
+ <lemma>حَاجَة</lemma>
+</res>
+<res>
+<word>إلا</word> 
+ <lemma>إِلَّا</lemma>
+</res>
+<res>
+<word>أدمغة</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>تحس</word> 
+ <lemma>أَحَسَّ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>تحسب</word> 
+ <lemma>تَحَسُّب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>نفع</word> 
+ <lemma>نَفْع</lemma>
+</res>
+<res>
+<word>دماغ</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>يحسب</word> 
+ <lemma>حَسِبَ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>عند</word> 
+ <lemma>عِنْد</lemma>
+</res>
+<res>
+<word>غيره</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يحس</word> 
+ <lemma>أَحَسَّ</lemma>
+</res>
+<res>
+<word>مما</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>عنده</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+<res>
+<word>بل</word> 
+ <lemma>بَلْ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>نفع</word> 
+ <lemma>نَفْع</lemma>
+</res>
+<res>
+<word>دماغ</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>يحسب</word> 
+ <lemma>حَسِبَ</lemma>
+</res>
+<res>
+<word>رغبة</word> 
+ <lemma>رَغْبَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الدقة</word> 
+ <lemma>دِقَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>وراءه</word> 
+ <lemma>وَرَاء</lemma>
+</res>
+<res>
+<word>قلب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>يحاسب</word> 
+ <lemma>حَاسَبَ</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+<res>
+<word>أينفعنا</word> 
+ <lemma>نَفَعَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>يكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>لنا</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>دماغ</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>حسابه</word> 
+ <lemma>حِسَاب</lemma>
+</res>
+<res>
+<word>دقيق</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وليس</word> 
+ <lemma>لَيْسَ</lemma>
+</res>
+<res>
+<word>له</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>قلب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>رقيق</word> 
+ <lemma>رَقِيق</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+
+<res>
+<word>إننا</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>بحاجة</word> 
+ <lemma>حَاجَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>قلوب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>مما</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>نحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>بحاجة</word> 
+ <lemma>حَاجَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أدمغة</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>وجيوب</word> 
+ <lemma>جَيْب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ليت</word> 
+ <lemma>لَيْتَ</lemma>
+</res>
+<res>
+<word>العلماء</word> 
+ <lemma>عَالِم</lemma>
+</res>
+<res>
+<word>الذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يجتهدون</word> 
+ <lemma>اجْتَهَدَ</lemma>
+</res>
+<res>
+<word>أملا</word> 
+ <lemma>أَمَل</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تصغير</word> 
+ <lemma>تَصْغِير</lemma>
+</res>
+<res>
+<word>الأدمغة</word> 
+ <lemma>دِمَاغ</lemma>
+</res>
+<res>
+<word>الإلكترونية</word> 
+ <lemma>إِلِكْتُرُون</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فكروا</word> 
+ <lemma>كَرَا</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>صنع</word> 
+ <lemma>صَنَعَ</lemma>
+</res>
+<res>
+<word>قلوب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>رقيقة</word> 
+ <lemma>رَقِيق</lemma>
+</res>
+<res>
+<word>لتنوب</word> 
+ <lemma>نَابَ</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>قلوب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>بشرية</word> 
+ <lemma>بَشَرِيّ</lemma>
+</res>
+<res>
+<word>تحجرت</word> 
+ <lemma>تَحَجَّرَ</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+</Lemmas>

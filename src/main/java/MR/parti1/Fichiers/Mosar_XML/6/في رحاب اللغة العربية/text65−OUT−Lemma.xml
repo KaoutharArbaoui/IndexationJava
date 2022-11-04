@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>يبدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>البشر</word> 
+ <lemma>بَشَر</lemma>
+</res>
+<res>
+<word>كلهم</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>حياتهم</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>أطفالا</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>لذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>فالاهتمام</word> 
+ <lemma>اهْتِمَام</lemma>
+</res>
+<res>
+<word>بالطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>اهتمام</word> 
+ <lemma>اهْتِمَام</lemma>
+</res>
+<res>
+<word>بالأسرة</word> 
+ <lemma>أُسْرَة</lemma>
+</res>
+<res>
+<word>والمجتمع</word> 
+ <lemma>مُجْتَمَع</lemma>
+</res>
+<res>
+<word>البشري</word> 
+ <lemma>بَشَرِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>النواة</word> 
+ <lemma>نَوَاة</lemma>
+</res>
+<res>
+<word>الصلبة</word> 
+ <lemma>صِلْبَة</lemma>
+</res>
+<res>
+<word>للمجتمع</word> 
+ <lemma>مُجْتَمَع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولأجله</word> 
+ <lemma>أَجْل</lemma>
+</res>
+<res>
+<word>تنشأ</word> 
+ <lemma>أَنْشَأَ</lemma>
+</res>
+<res>
+<word>الأسرة</word> 
+ <lemma>أُسْرَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتتأسس</word> 
+ <lemma>تَأَسَّسَ</lemma>
+</res>
+<res>
+<word>المرافق</word> 
+ <lemma>مُرَافِق</lemma>
+</res>
+<res>
+<word>الحيوية</word> 
+ <lemma>حَيَوِيّ</lemma>
+</res>
+<res>
+<word>جميعها</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المجتمع</word> 
+ <lemma>مُجْتَمَع</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>صحة</word> 
+ <lemma>صِحَّة</lemma>
+</res>
+<res>
+<word>وتعليم</word> 
+ <lemma>تَعْلِيم</lemma>
+</res>
+<res>
+<word>وتربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>والمجتمع</word> 
+ <lemma>مُجْتَمَع</lemma>
+</res>
+<res>
+<word>الواعي</word> 
+ <lemma>وَاع</lemma>
+</res>
+<res>
+<word>بالمسؤولية</word> 
+ <lemma>مَسْؤُولِيَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>المجتمع</word> 
+ <lemma>مُجْتَمِع</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>يدرك</word> 
+ <lemma>أَدْرَكَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>نفسه</word> 
+ <lemma>نَفْس</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الوجود</word> 
+ <lemma>وُجُود</lemma>
+</res>
+<res>
+<word>الإنساني</word> 
+ <lemma>إِنْسَانِيّ</lemma>
+</res>
+<res>
+<word>حاضره</word> 
+ <lemma>حَاضِر</lemma>
+</res>
+<res>
+<word>ومستقبله</word> 
+ <lemma>مُسْتَقْبَل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تقدم</word> 
+ <lemma>قَدَّمَ</lemma>
+</res>
+<res>
+<word>مجتمع</word> 
+ <lemma>مُجْتَمِع</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>تخلفه</word> 
+ <lemma>خَلَّفَ</lemma>
+</res>
+<res>
+<word>رهين</word> 
+ <lemma>رَهِين</lemma>
+</res>
+<res>
+<word>رهين</word> 
+ <lemma>رَهِين</lemma>
+</res>
+<res>
+<word>بمدى</word> 
+ <lemma>مَدَى</lemma>
+</res>
+<res>
+<word>الاهتمام</word> 
+ <lemma>اهْتِمَام</lemma>
+</res>
+<res>
+<word>بالطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>ورعايته</word> 
+ <lemma>رِعَايَة</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>وذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>طريق</word> 
+ <lemma>طَرِيق</lemma>
+</res>
+<res>
+<word>تنميته</word> 
+ <lemma>تَنْمِيَة</lemma>
+</res>
+<res>
+<word>وتنشئته</word> 
+ <lemma>تَنْشِئَة</lemma>
+</res>
+<res>
+<word>تنشئة</word> 
+ <lemma>تَنْشِئَة</lemma>
+</res>
+<res>
+<word>حسنة</word> 
+ <lemma>حَسَنَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>الاهتمام</word> 
+ <lemma>اهْتِمَام</lemma>
+</res>
+<res>
+<word>بالأسرة</word> 
+ <lemma>أُسْرَة</lemma>
+</res>
+<res>
+<word>أسرته</word> 
+ <lemma>أُسْرَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ففي</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>كله</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>قوة</word> 
+ <lemma>قُوَّة</lemma>
+</res>
+<res>
+<word>المجتمع</word> 
+ <lemma>مُجْتَمِع</lemma>
+</res>
+<res>
+<word>ورفاهيته</word> 
+ <lemma>رَفَاهِيَّة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

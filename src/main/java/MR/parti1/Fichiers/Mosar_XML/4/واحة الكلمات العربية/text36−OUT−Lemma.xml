@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>فلسطين</word> 
+ <lemma>فِلَسْطِين</lemma>
+</res>
+<res>
+<word>جزء</word> 
+ <lemma>جُزْء</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>وطننا</word> 
+ <lemma>وَطَن</lemma>
+</res>
+<res>
+<word>العزيز</word> 
+ <lemma>عَزِيز</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كانت</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>حرة</word> 
+ <lemma>حُرّ</lemma>
+</res>
+<res>
+<word>مستقلة</word> 
+ <lemma>مُسْتَقِلّ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>احتلها</word> 
+ <lemma>احْتَلَّ</lemma>
+</res>
+<res>
+<word>اليهود</word> 
+ <lemma>يَهُود</lemma>
+</res>
+<res>
+<word>سنة</word> 
+ <lemma>سَنَة</lemma>
+</res>
+<res>
+<word> 1948</word> 
+ <lemma> 1948</lemma>
+</res>
+<res>
+<word>م</word> 
+ <lemma>م</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بدعوى</word> 
+ <lemma>دَعْوَى</lemma>
+</res>
+<res>
+<word>أنها</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>أرض</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>الميعاد</word> 
+ <lemma>مِيعَاد</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>وعدهم</word> 
+ <lemma>وَعَدَ</lemma>
+</res>
+<res>
+<word>بها</word> 
+ <lemma>بِي</lemma>
+</res>
+<res>
+<word>موسى</word> 
+ <lemma>مُوسَى</lemma>
+</res>
+<res>
+<word>عليه</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>السلام</word> 
+ <lemma>سَلَام</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يستسلم</word> 
+ <lemma>اسْتَسْلَمَ</lemma>
+</res>
+<res>
+<word>الشعب</word> 
+ <lemma>شَعْب</lemma>
+</res>
+<res>
+<word>الفلسطيني</word> 
+ <lemma>فِلَسْطِينِيّ</lemma>
+</res>
+<res>
+<word>لاحتلال</word> 
+ <lemma>احْتِلَال</lemma>
+</res>
+<res>
+<word>أرضه</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فقاوم</word> 
+ <lemma>قَاوَمَ</lemma>
+</res>
+<res>
+<word>مقاومة</word> 
+ <lemma>مُقَاوَمَة</lemma>
+</res>
+<res>
+<word>شرسة</word> 
+ <lemma>شَرِس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>العدو</word> 
+ <lemma>عَدْو</lemma>
+</res>
+<res>
+<word>المحتل</word> 
+ <lemma>مُحْتَلّ</lemma>
+</res>
+<res>
+<word>بطش</word> 
+ <lemma>طَشّ</lemma>
+</res>
+<res>
+<word>بكل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>وجد</word> 
+ <lemma>وَجَدَ</lemma>
+</res>
+<res>
+<word>أمامه</word> 
+ <lemma>أَمَامَ</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>حرق</word> 
+ <lemma>حَرْق</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>هدم</word> 
+ <lemma>هَدْم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وجرف</word> 
+ <lemma>جَرْف</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وقصف</word> 
+ <lemma>قَصْف</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يرحم</word> 
+ <lemma>رَحِمَ</lemma>
+</res>
+<res>
+<word>طفلا</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>شيخا</word> 
+ <lemma>شَيَخ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>امرأة</word> 
+ <lemma>امْرَأَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>زرعا</word> 
+ <lemma>زَرْع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بل</word> 
+ <lemma>بَلْ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يرحم</word> 
+ <lemma>رَحِمَ</lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>الأموات</word> 
+ <lemma>مَيِّت</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تشرد</word> 
+ <lemma>تَشَرُّد</lemma>
+</res>
+<res>
+<word>أكثر</word> 
+ <lemma>أَكْثَر</lemma>
+</res>
+<res>
+<word>الفلسطينيين</word> 
+ <lemma>فِلَسْطِينِيّ</lemma>
+</res>
+<res>
+<word>فأصبحوا</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>لاجئين</word> 
+ <lemma>لَاجِئ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مخيمات</word> 
+ <lemma>مُخَيَّم</lemma>
+</res>
+<res>
+<word>تنعدم</word> 
+ <lemma>انْعَدَمَ</lemma>
+</res>
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>أبسط</word> 
+ <lemma>أَبْسَط</lemma>
+</res>
+<res>
+<word>شروط</word> 
+ <lemma>شَرْط</lemma>
+</res>
+<res>
+<word>العيش</word> 
+ <lemma>عَيْش</lemma>
+</res>
+<res>
+<word>الضرورية</word> 
+ <lemma>ضَرُورِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ظل</word> 
+ <lemma>ظِلّ</lemma>
+</res>
+<res>
+<word>الشعب</word> 
+ <lemma>شَعْب</lemma>
+</res>
+<res>
+<word>الفلسطيني</word> 
+ <lemma>فِلَسْطِينِيّ</lemma>
+</res>
+<res>
+<word>محروما</word> 
+ <lemma>مَحْرُوم</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>حقوقه</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>الإنسانية</word> 
+ <lemma>إِنْسَانِيَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>عزيمته</word> 
+ <lemma>عَزِيمَة</lemma>
+</res>
+<res>
+<word>قوية</word> 
+ <lemma>قَوِيّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>استرجاع</word> 
+ <lemma>اسْتِرْجَاع</lemma>
+</res>
+<res>
+<word>وطنه</word> 
+ <lemma>وَطَن</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يزال</word> 
+ <lemma>زَالَ</lemma>
+</res>
+<res>
+<word>صامدا</word> 
+ <lemma>صَامِد</lemma>
+</res>
+<res>
+<word>مدافعا</word> 
+ <lemma>مُدَافِع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>فتئت</word> 
+ <lemma>فَتِئَ</lemma>
+</res>
+<res>
+<word>انتفاضته</word> 
+ <lemma>انْتِفَاضَة</lemma>
+</res>
+<res>
+<word>مشتعلة</word> 
+ <lemma>مُشْتَعِل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولعل</word> 
+ <lemma>لَعَلَّ</lemma>
+</res>
+<res>
+<word>النصر</word> 
+ <lemma>نَصْر</lemma>
+</res>
+<res>
+<word>قريب</word> 
+ <lemma>قَرِيب</lemma>
+</res>
+<res>
+<word>، (( </word> 
+ <lemma>، (( </lemma>
+</res>
+<res>
+<word>فما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ضاع</word> 
+ <lemma>ضَاعَ</lemma>
+</res>
+<res>
+<word>حق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>ورائه</word> 
+ <lemma>رَائِه</lemma>
+</res>
+<res>
+<word>طالب</word> 
+ <lemma>طَالِب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>))</word> 
+ <lemma>))</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>مرقت</word> 
+ <lemma>مَرِقَ</lemma>
+</res>
+<res>
+<word>كومض</word> 
+ <lemma>وَمْض</lemma>
+</res>
+<res>
+<word>البرق</word> 
+ <lemma>بَرْق</lemma>
+</res>
+<res>
+<word>تلتهم</word> 
+ <lemma>الْتَهَمَ</lemma>
+</res>
+<res>
+<word>الفضا</word> 
+ <lemma>الفضا</lemma>
+</res>
+<res>
+<word>رعناء</word> 
+ <lemma>أَرْعَن</lemma>
+</res>
+<res>
+<word>تقصف</word> 
+ <lemma>قَصَفَ</lemma>
+</res>
+<res>
+<word>كالرعود</word> 
+ <lemma>رَعْد</lemma>
+</res>
+<res>
+<word>وتزأر</word> 
+ <lemma>زَئِرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تنشق</word> 
+ <lemma>انْشَقَّ</lemma>
+</res>
+<res>
+<word>عنها</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>الأرض</word> 
+ <lemma>أَرْض</lemma>
+</res>
+<res>
+<word>لحظة</word> 
+ <lemma>لَحْظَة</lemma>
+</res>
+<res>
+<word>بعثها</word> 
+ <lemma>بَعْث</lemma>
+</res>
+<res>
+<word>إعصار</word> 
+ <lemma>إِعْصَار</lemma>
+</res>
+<res>
+<word>جن</word> 
+ <lemma>جِنّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الغيوم</word> 
+ <lemma>غَيْم</lemma>
+</res>
+<res>
+<word>يزمجر</word> 
+ <lemma>ازْمَجَرَّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تعدو</word> 
+ <lemma>عَدَا</lemma>
+</res>
+<res>
+<word>مخافة</word> 
+ <lemma>مَخَافَة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>تلاحق</word> 
+ <lemma>تَلَاحُق</lemma>
+</res>
+<res>
+<word>خطوها</word> 
+ <lemma>خَطَّ</lemma>
+</res>
+<res>
+<word>نار</word> 
+ <lemma>نَار</lemma>
+</res>
+<res>
+<word>وقودها</word> 
+ <lemma>وَقُود</lemma>
+</res>
+<res>
+<word>جحيم</word> 
+ <lemma>جَحِيم</lemma>
+</res>
+<res>
+<word>يتسعر</word> 
+ <lemma>تَسَعَّرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تنطفي</word> 
+ <lemma>تَنَطُّف</lemma>
+</res>
+<res>
+<word>نار</word> 
+ <lemma>نَار</lemma>
+</res>
+<res>
+<word>تغذي</word> 
+ <lemma>غَذَّى</lemma>
+</res>
+<res>
+<word>سيرها</word> 
+ <lemma>سَيْر</lemma>
+</res>
+<res>
+<word>إلا</word> 
+ <lemma>إِنْ</lemma>
+</res>
+<res>
+<word>تلقفها</word> 
+ <lemma>لَقَّفَ</lemma>
+</res>
+<res>
+<word>شواظ</word> 
+ <lemma>شَوَّاظ</lemma>
+</res>
+<res>
+<word>اخر</word> 
+ <lemma>اخر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>جنت</word> 
+ <lemma>جَنَى</lemma>
+</res>
+<res>
+<word>وطار</word> 
+ <lemma>طَارَ</lemma>
+</res>
+<res>
+<word>صوابها</word> 
+ <lemma>صَوَاب</lemma>
+</res>
+<res>
+<word>فتسلقت</word> 
+ <lemma>تَسَلَّقَ</lemma>
+</res>
+<res>
+<word>قمم</word> 
+ <lemma>قِمَّة</lemma>
+</res>
+<res>
+<word>السماء</word> 
+ <lemma>سَمَاء</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المجرة</word> 
+ <lemma>مِجْرَة</lemma>
+</res>
+<res>
+<word>تبحر</word> 
+ <lemma>تَبَحُّر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>طير</word> 
+ <lemma>طَيْر</lemma>
+</res>
+<res>
+<word>يخفق</word> 
+ <lemma>أَخْفَقَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الفضاء</word> 
+ <lemma>فَضَاء</lemma>
+</res>
+<res>
+<word>جناحه</word> 
+ <lemma>جَنَاح</lemma>
+</res>
+<res>
+<word>فزعا</word> 
+ <lemma>فَزَع</lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>عرفت</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>صداها</word> 
+ <lemma>صَدَى</lemma>
+</res>
+<res>
+<word>الأبحر</word> 
+ <lemma>بَحْر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>الريح</word> 
+ <lemma>رِيح</lemma>
+</res>
+<res>
+<word>تعرف</word> 
+ <lemma>عَرَفَ</lemma>
+</res>
+<res>
+<word>أنها</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>ريح</word> 
+ <lemma>رَاحَ</lemma>
+</res>
+<res>
+<word>إذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>انطلقت</word> 
+ <lemma>انْطَلَقَ</lemma>
+</res>
+<res>
+<word>مراجلها</word> 
+ <lemma>مِرْجَل</lemma>
+</res>
+<res>
+<word>تجيش</word> 
+ <lemma>جَاشَ</lemma>
+</res>
+<res>
+<word>وتزفر</word> 
+ <lemma>زَفَرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>امنت</word> 
+ <lemma>امنت</lemma>
+</res>
+<res>
+<word>بالعلم</word> 
+ <lemma>عِلْم</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>لولاه</word> 
+ <lemma>وَلَّى</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>تك</word> 
+ <lemma>تَكّ</lemma>
+</res>
+<res>
+<word>للقرود</word> 
+ <lemma>قَرُود</lemma>
+</res>
+<res>
+<word>معارج</word> 
+ <lemma>مَعْرَج</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>مخبر</word> 
+ <lemma>مُخْبَر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>العلم</word> 
+ <lemma>عِلْم</lemma>
+</res>
+<res>
+<word>كاف</word> 
+ <lemma>كَاف</lemma>
+</res>
+<res>
+<word>وحده</word> 
+ <lemma>حَدّ</lemma>
+</res>
+<res>
+<word>لسعادة</word> 
+ <lemma>سَعَادَة</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>امن</word> 
+ <lemma>مَنَى</lemma>
+</res>
+<res>
+<word>وكان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>تجبر</word> 
+ <lemma>أَجْبَرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>أَكَلَ</lemma>
+</res>
+<res>
+<word>منطقة</word> 
+ <lemma>مِنْطَقَة</lemma>
+</res>
+<res>
+<word>شعوب</word> 
+ <lemma>شَعْب</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>تزل</word> 
+ <lemma>زَالَ</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>العتاة</word> 
+ <lemma>عَاتٍ</lemma>
+</res>
+<res>
+<word>رقابها</word> 
+ <lemma>رَقَبَة</lemma>
+</res>
+<res>
+<word>تتكسر</word> 
+ <lemma>تَكَسَّرَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

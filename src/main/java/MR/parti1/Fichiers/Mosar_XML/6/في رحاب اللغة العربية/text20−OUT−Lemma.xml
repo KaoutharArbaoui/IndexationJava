@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>كان</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>يهتم</word> 
+ <lemma>اهْتَمَّ</lemma>
+</res>
+<res>
+<word>بقيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>الكتابة</word> 
+ <lemma>كِتَاب</lemma>
+</res>
+<res>
+<word>وحدها</word> 
+ <lemma>حَدّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>واليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>أصبح</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>يعطي</word> 
+ <lemma>أَعْطَى</lemma>
+</res>
+<res>
+<word>الصورة</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ظل</word> 
+ <lemma>ظِلّ</lemma>
+</res>
+<res>
+<word>يعطيه</word> 
+ <lemma>أَعْطَى</lemma>
+</res>
+<res>
+<word>للكتابة</word> 
+ <lemma>كِتَابَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فالصورة</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تناقش</word> 
+ <lemma>نَاقَشَ</lemma>
+</res>
+<res>
+<word>القضايا</word> 
+ <lemma>قَضِيَّة</lemma>
+</res>
+<res>
+<word>العقلية</word> 
+ <lemma>عَقْلِيّ</lemma>
+</res>
+<res>
+<word>فقط</word> 
+ <lemma>فَقَطْ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولكنها</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>تؤثر</word> 
+ <lemma>أَثَّرَ</lemma>
+</res>
+<res>
+<word>أيضا</word> 
+ <lemma>أَيْض</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>مراكز</word> 
+ <lemma>مَرْكَز</lemma>
+</res>
+<res>
+<word>الأعصاب</word> 
+ <lemma>عَصَب</lemma>
+</res>
+<res>
+<word>ونفسية</word> 
+ <lemma>نَفْسِيّ</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+<res>
+<word>باتت</word> 
+ <lemma>بَاتَ</lemma>
+</res>
+<res>
+<word>الكوارث</word> 
+ <lemma>كَارِثَة</lemma>
+</res>
+<res>
+<word>الطبيعية</word> 
+ <lemma>طَبِيعِيّ</lemma>
+</res>
+<res>
+<word>والحروب</word> 
+ <lemma>حَرْب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وكل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يروج</word> 
+ <lemma>رَاجَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>بقعة</word> 
+ <lemma>بُقْعَة</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>العالم</word> 
+ <lemma>عَالَم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بواسطة</word> 
+ <lemma>وَاسِطَة</lemma>
+</res>
+<res>
+<word>الصورة</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>وسحرها</word> 
+ <lemma>سِحْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مجرد</word> 
+ <lemma>مُجَرَّد</lemma>
+</res>
+<res>
+<word>عروض</word> 
+ <lemma>عَرْض</lemma>
+</res>
+<res>
+<word>سينمائية</word> 
+ <lemma>سِينِمَائِيّ</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>تلفزيونية</word> 
+ <lemma>تلفزيونية</lemma>
+</res>
+<res>
+<word>،</word> 
+ <lemma>،</lemma>
+</res>
+
+<res>
+<word>يشاهدها</word> 
+ <lemma>شَاهَدَ</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>جالس</word> 
+ <lemma>جَالِس</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>غرفة</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>غرف</word> 
+ <lemma>غُرْفَة</lemma>
+</res>
+<res>
+<word>منزله</word> 
+ <lemma>مَنْزِل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>التساؤل</word> 
+ <lemma>تَسَاؤُل</lemma>
+</res>
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>الصورة</word> 
+ <lemma>صُورَة</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يتوقف</word> 
+ <lemma>تَوَقَّفَ</lemma>
+</res>
+<res>
+<word>لحظة</word> 
+ <lemma>لَحْظَة</lemma>
+</res>
+<res>
+<word>واحدة</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>لها</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>قيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>إخبارية</word> 
+ <lemma>إِخْبَارِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وشعورية</word> 
+ <lemma>شُعُورِيَّة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>حياة</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>المعاصر</word> 
+ <lemma>مُعَاصِر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الإسلام</word> 
+ <lemma>إِسْلَام</lemma>
+</res>
+<res>
+<word>دين</word> 
+ <lemma>دِين</lemma>
+</res>
+<res>
+<word>شامل</word> 
+ <lemma>شَامِل</lemma>
+</res>
+<res>
+<word>وكامل</word> 
+ <lemma>كَامِل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ضمن</word> 
+ <lemma>ضِمْن</lemma>
+</res>
+<res>
+<word>لكل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>إنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>حقوقه</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>له</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>واجباته</word> 
+ <lemma>وَاجِب</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>فالزكاة</word> 
+ <lemma>زَكَاة</lemma>
+</res>
+<res>
+<word>حق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>معلوم</word> 
+ <lemma>مَعْلُوم</lemma>
+</res>
+<res>
+<word>للفقير</word> 
+ <lemma>فَقِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>واجب</word> 
+ <lemma>وَاجِب</lemma>
+</res>
+<res>
+<word>مفروض</word> 
+ <lemma>مَفْرُوض</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>الغني</word> 
+ <lemma>غَنِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكن</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>الفقير</word> 
+ <lemma>فَقِير</lemma>
+</res>
+<res>
+<word>مطالب</word> 
+ <lemma>مُطَالِب</lemma>
+</res>
+<res>
+<word>بأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يسعى</word> 
+ <lemma>سَعَى</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>كسب</word> 
+ <lemma>كَسْب</lemma>
+</res>
+<res>
+<word>الرزق</word> 
+ <lemma>رِزْق</lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يبقى</word> 
+ <lemma>بَقِيَ</lemma>
+</res>
+<res>
+<word>عالة</word> 
+ <lemma>عَالّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>غيره</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وكأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الفقر</word> 
+ <lemma>فَقْر</lemma>
+</res>
+<res>
+<word>حالة</word> 
+ <lemma>حَال</lemma>
+</res>
+<res>
+<word>حرم</word> 
+ <lemma>حَرَم</lemma>
+</res>
+<res>
+<word>الدين</word> 
+ <lemma>دِين</lemma>
+</res>
+<res>
+<word>تغييرها</word> 
+ <lemma>تَغْيِير</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الغني</word> 
+ <lemma>غَنِيّ</lemma>
+</res>
+<res>
+<word>فضل</word> 
+ <lemma>فَضْل</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لكنه</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>امتحان</word> 
+ <lemma>امْتِحَان</lemma>
+</res>
+<res>
+<word>للشكر</word> 
+ <lemma>شُكْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنّ</lemma>
+</res>
+<res>
+<word>الفقر</word> 
+ <lemma>فَقْر</lemma>
+</res>
+<res>
+<word>ابتلاء</word> 
+ <lemma>ابْتِلَاء</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>لكنه</word> 
+ <lemma>لَكِنَّ</lemma>
+</res>
+<res>
+<word>امتحان</word> 
+ <lemma>امْتِحَان</lemma>
+</res>
+<res>
+<word>للصبر</word> 
+ <lemma>صَبْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فلعل</word> 
+ <lemma>لَعَلَّ</lemma>
+</res>
+<res>
+<word>الغني</word> 
+ <lemma>غَنِيّ</lemma>
+</res>
+<res>
+<word>شاكر</word> 
+ <lemma>شَاكِر</lemma>
+</res>
+<res>
+<word>نعمة</word> 
+ <lemma>نَعْمَة</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولعل</word> 
+ <lemma>لَعَلَّ</lemma>
+</res>
+<res>
+<word>الفقير</word> 
+ <lemma>فَقِير</lemma>
+</res>
+<res>
+<word>صابر</word> 
+ <lemma>صَابِر</lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>يفرج</word> 
+ <lemma>أَفْرَجَ</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>ضيقه</word> 
+ <lemma>ضِيق</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ليت</word> 
+ <lemma>لَيْتَ</lemma>
+</res>
+<res>
+<word>الزكاة</word> 
+ <lemma>زَكَاة</lemma>
+</res>
+<res>
+<word>مؤداة</word> 
+ <lemma>مُؤَدَّاة</lemma>
+</res>
+<res>
+<word>لتصل</word> 
+ <lemma>وَصَلَ</lemma>
+</res>
+<res>
+<word>الحقوق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>مستحقيها</word> 
+ <lemma>مُسْتَحِقّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فتقل</word> 
+ <lemma>أَقَلَّ</lemma>
+</res>
+<res>
+<word>الفوارق</word> 
+ <lemma>فَارِق</lemma>
+</res>
+<res>
+<word>بين</word> 
+ <lemma>بَيْنَ</lemma>
+</res>
+<res>
+<word>الناس</word> 
+ <lemma>نَاس</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويعفى</word> 
+ <lemma>أَعْفَى</lemma>
+</res>
+<res>
+<word>الفقراء</word> 
+ <lemma>فَقِير</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>ذل</word> 
+ <lemma>ذَلَّ</lemma>
+</res>
+<res>
+<word>السؤال</word> 
+ <lemma>سُؤَال</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ويكون</word> 
+ <lemma>كَوَّنَ</lemma>
+</res>
+<res>
+<word>بذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الإسلام</word> 
+ <lemma>إِسْلَام</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>عالج</word> 
+ <lemma>عَالَجَ</lemma>
+</res>
+<res>
+<word>جميع</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>مطالب</word> 
+ <lemma>مَطْلَب</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>الدنيوية</word> 
+ <lemma>دُنْيَوِيّ</lemma>
+</res>
+<res>
+<word>والأخروية</word> 
+ <lemma>أُخْرَوِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>اقتنعت</word> 
+ <lemma>اقْتَنَعَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>الإسلام</word> 
+ <lemma>إِسْلَام</lemma>
+</res>
+<res>
+<word>كامل</word> 
+ <lemma>كَامِل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

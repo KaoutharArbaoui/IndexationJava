@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>﻿</word> 
+ <lemma>﻿</lemma>
+</res>
+<res>
+<word>ليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>القدر</word> 
+ <lemma>قِدْر</lemma>
+</res>
+
+<res>
+<word>يصوم</word> 
+ <lemma>صَامَ</lemma>
+</res>
+<res>
+<word>المسلمون</word> 
+ <lemma>مُسْلِم</lemma>
+</res>
+<res>
+<word>شهر</word> 
+ <lemma>شَهْر</lemma>
+</res>
+<res>
+<word>رمضان</word> 
+ <lemma>رَمَضَان</lemma>
+</res>
+<res>
+<word>المعظم</word> 
+ <lemma>مُعْظَم</lemma>
+</res>
+<res>
+<word>مرة</word> 
+ <lemma>مَرَّة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>السنة</word> 
+ <lemma>سَنَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>طاعة</word> 
+ <lemma>طَاعَة</lemma>
+</res>
+<res>
+<word>لله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>وطمعا</word> 
+ <lemma>طَمِعَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الثواب</word> 
+ <lemma>ثَوَاب</lemma>
+</res>
+<res>
+<word>والغفران</word> 
+ <lemma>غُفْرَان</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>شهر</word> 
+ <lemma>شَهْر</lemma>
+</res>
+<res>
+<word>رمضان</word> 
+ <lemma>رَمَضَان</lemma>
+</res>
+<res>
+<word>تمتلئ</word> 
+ <lemma>امْتَلَأَ</lemma>
+</res>
+<res>
+<word>المساجد</word> 
+ <lemma>مَسْجِد</lemma>
+</res>
+<res>
+<word>بالمصلين</word> 
+ <lemma>مُصْل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وخاصة</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>ليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>القدر</word> 
+ <lemma>قَدْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>ليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>السابع</word> 
+ <lemma>سَابِع</lemma>
+</res>
+<res>
+<word>والعشرين</word> 
+ <lemma>عِشْرِين</lemma>
+</res>
+<res>
+<word>منه</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>وهي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>أنزل</word> 
+ <lemma>أَنْزَلَ</lemma>
+</res>
+<res>
+<word>فيها</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>القران</word> 
+ <lemma>قُرّ</lemma>
+</res>
+<res>
+<word>الكريم</word> 
+ <lemma>كَرِيم</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>سيدنا</word> 
+ <lemma>سَيِّد</lemma>
+</res>
+<res>
+<word>محمد</word> 
+ <lemma>مُحَمَّد</lemma>
+</res>
+<res>
+<word>صلى</word> 
+ <lemma>صَلَّى</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>عليه</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>وسلم</word> 
+ <lemma>سَلَّمَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>يلبس</word> 
+ <lemma>لَبِسَ</lemma>
+</res>
+<res>
+<word>الرجال</word> 
+ <lemma>رَجُل</lemma>
+</res>
+<res>
+<word>والنساء</word> 
+ <lemma>نِسَاء</lemma>
+</res>
+<res>
+<word>والأطفال</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>أجمل</word> 
+ <lemma>أَجْمَل</lemma>
+</res>
+<res>
+<word>ثيابهم</word> 
+ <lemma>ثَوْب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ويتوجهون</word> 
+ <lemma>تَوَجَّهَ</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المساجد</word> 
+ <lemma>مَسْجِد</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>صوامعها</word> 
+ <lemma>صَوْمَع</lemma>
+</res>
+<res>
+<word>مزينة</word> 
+ <lemma>مُزَيْنَة</lemma>
+</res>
+<res>
+<word>بالمصابيح</word> 
+ <lemma>مِصْبَاح</lemma>
+</res>
+<res>
+<word>المختلفة</word> 
+ <lemma>مُخْتَلِف</lemma>
+</res>
+<res>
+<word>الألوان</word> 
+ <lemma>لَوْن</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>يصلي</word> 
+ <lemma>صَلَّى</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>واحد</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>استطاعه</word> 
+ <lemma>اسْتَطَاعَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الركعات</word> 
+ <lemma>رَكْعَة</lemma>
+</res>
+<res>
+<word>خلف</word> 
+ <lemma>خَلْف</lemma>
+</res>
+<res>
+<word>الإمام</word> 
+ <lemma>إِمَام</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويدعو</word> 
+ <lemma>دَعَا</lemma>
+</res>
+<res>
+<word>الله</word> 
+ <lemma>الله</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يغفر</word> 
+ <lemma>غَفَرَ</lemma>
+</res>
+<res>
+<word>له</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>ذنوبه</word> 
+ <lemma>ذَنْب</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تبقى</word> 
+ <lemma>بَقِيَ</lemma>
+</res>
+<res>
+<word>المساجد</word> 
+ <lemma>مَسْجِد</lemma>
+</res>
+<res>
+<word>مفتوحة</word> 
+ <lemma>مَفْتُوح</lemma>
+</res>
+<res>
+<word>تلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>الليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>حتى</word> 
+ <lemma>حَتَّى</lemma>
+</res>
+<res>
+<word>مطلع</word> 
+ <lemma>مُطَّلِع</lemma>
+</res>
+<res>
+<word>الفجر</word> 
+ <lemma>فَجْر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>أعظم</word> 
+ <lemma>أَعْظَم</lemma>
+</res>
+<res>
+<word>ليلة</word> 
+ <lemma>لَيْل</lemma>
+</res>
+<res>
+<word>القدر</word> 
+ <lemma>قِدْر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>يحتاج</word> 
+ <lemma>احْتَاجَ</lemma>
+</res>
+<res>
+<word>جسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>الطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>التقوية</word> 
+ <lemma>تَقْوِيَة</lemma>
+</res>
+<res>
+<word>المنظمة</word> 
+ <lemma>مُنَظَّم</lemma>
+</res>
+<res>
+<word>منذ</word> 
+ <lemma>مُنْذُ</lemma>
+</res>
+<res>
+<word>بواكير</word> 
+ <lemma>بَاكُورَة</lemma>
+</res>
+<res>
+<word>الطفولة</word> 
+ <lemma>طُفُولَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>سوائ</word> 
+ <lemma>سوائ</lemma>
+</res>
+<res>
+<word>بالتغذية</word> 
+ <lemma>تَغْذِيَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>بالتربية</word> 
+ <lemma>تَرْبِيَة</lemma>
+</res>
+<res>
+<word>البدنية</word> 
+ <lemma>بَدَنِيّ</lemma>
+</res>
+<res>
+<word>والرياضة</word> 
+ <lemma>رِيَاضَة</lemma>
+</res>
+<res>
+<word>واللعب</word> 
+ <lemma>لَعْب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>لتنسيق</word> 
+ <lemma>تَنْسِيق</lemma>
+</res>
+<res>
+<word>تطور</word> 
+ <lemma>تَطَوُّر</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نموه</word> 
+ <lemma>نَمَا</lemma>
+</res>
+<res>
+<word>المستمر</word> 
+ <lemma>مُسْتَمِرّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>والقيمة</word> 
+ <lemma>قِيمَة</lemma>
+</res>
+<res>
+<word>الأساسية</word> 
+ <lemma>أَسَاسِيّ</lemma>
+</res>
+<res>
+<word>للتمارين</word> 
+ <lemma>تَمْرِين</lemma>
+</res>
+<res>
+<word>الرياضية</word> 
+ <lemma>رِيَاضِيّ</lemma>
+</res>
+<res>
+<word>هي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>قدرتها</word> 
+ <lemma>قُدْرَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تنشيط</word> 
+ <lemma>تَنْشِيط</lemma>
+</res>
+<res>
+<word>التفاعلات</word> 
+ <lemma>تَفَاعُل</lemma>
+</res>
+<res>
+<word>التي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>تتم</word> 
+ <lemma>تَمَّ</lemma>
+</res>
+<res>
+<word>داخل</word> 
+ <lemma>دَاخِل</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فتظهر</word> 
+ <lemma>ظَهَرَ</lemma>
+</res>
+<res>
+<word>آثار</word> 
+ <lemma>أَثَر</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>التمارين</word> 
+ <lemma>تَمْرِين</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>أَكَلَ</lemma>
+</res>
+<res>
+<word>الأعضاء</word> 
+ <lemma>عُضْو</lemma>
+</res>
+<res>
+<word>والأجهزة</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وعلى</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الجهاز</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>العصبي</word> 
+ <lemma>عَصَبِيّ</lemma>
+</res>
+<res>
+<word>بشكل</word> 
+ <lemma>شَكْل</lemma>
+</res>
+<res>
+<word>خاص</word> 
+ <lemma>خَاصّ</lemma>
+</res>
+<res>
+<word>ولذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>قيل</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+
+<res>
+<word>(( </word> 
+ <lemma>(( </lemma>
+</res>
+<res>
+<word>العقل</word> 
+ <lemma>عَقْل</lemma>
+</res>
+<res>
+<word>السليم</word> 
+ <lemma>سَلِيم</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>السليم</word> 
+ <lemma>سَلِيم</lemma>
+</res>
+<res>
+<word>))، </word> 
+ <lemma>))، </lemma>
+</res>
+<res>
+<word>كما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>تساعد</word> 
+ <lemma>سَاعَدَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>تقوية</word> 
+ <lemma>تَقْوِيَة</lemma>
+</res>
+<res>
+<word>قدرة</word> 
+ <lemma>قُدْرَة</lemma>
+</res>
+<res>
+<word>القلب</word> 
+ <lemma>قَلْب</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>عمله</word> 
+ <lemma>عَمَل</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وتكون</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>أهمية</word> 
+ <lemma>أَهَمِّيَّة</lemma>
+</res>
+<res>
+<word>الرياضة</word> 
+ <lemma>رِيَاضَة</lemma>
+</res>
+<res>
+<word>كبيرة</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>بالنسبة</word> 
+ <lemma>نِسْبَة</lemma>
+</res>
+<res>
+<word>للطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>الضعيف</word> 
+ <lemma>ضَعِيف</lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>المريض</word> 
+ <lemma>مَرِيض</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لأنها</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>تضمن</word> 
+ <lemma>تَضَمَّنَ</lemma>
+</res>
+<res>
+<word>تحسين</word> 
+ <lemma>تَحْسِين</lemma>
+</res>
+<res>
+<word>نشاط</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>الأعضاء</word> 
+ <lemma>عُضْو</lemma>
+</res>
+<res>
+<word>والأنسجة</word> 
+ <lemma>نَسِيج</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتغيير</word> 
+ <lemma>تَغْيِير</lemma>
+</res>
+<res>
+<word>التمثيل</word> 
+ <lemma>تَمْثِيل</lemma>
+</res>
+<res>
+<word>الغذائي</word> 
+ <lemma>غِذَائِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتعزيز</word> 
+ <lemma>تَعْزِيز</lemma>
+</res>
+<res>
+<word>عملية</word> 
+ <lemma>عَمَلِيَّة</lemma>
+</res>
+<res>
+<word>تنقية</word> 
+ <lemma>تَنْقِيَة</lemma>
+</res>
+<res>
+<word>الدم</word> 
+ <lemma>دَم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>مما</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>يزيد</word> 
+ <lemma>زَادَ</lemma>
+</res>
+<res>
+<word>الجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>مناعة</word> 
+ <lemma>مَنَاعَة</lemma>
+</res>
+<res>
+<word>ونشاطا</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>وقدرة</word> 
+ <lemma>قُدْرَة</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الدفاع</word> 
+ <lemma>دَفَّاع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وهذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>أمور</word> 
+ <lemma>أَمْر</lemma>
+</res>
+<res>
+<word>ضرورية</word> 
+ <lemma>ضَرُورِيّ</lemma>
+</res>
+<res>
+<word>لجسم</word> 
+ <lemma>جِسْم</lemma>
+</res>
+<res>
+<word>الإنسان</word> 
+ <lemma>إِنْسَان</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

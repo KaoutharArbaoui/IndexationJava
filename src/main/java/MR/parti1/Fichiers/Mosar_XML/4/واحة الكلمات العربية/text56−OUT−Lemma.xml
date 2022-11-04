@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>لو</word> 
+ <lemma>لَوْ</lemma>
+</res>
+<res>
+<word>استطعنا</word> 
+ <lemma>اسْتَطَاعَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>نعلم</word> 
+ <lemma>عَلِمَ</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>الأمهات</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>كيف</word> 
+ <lemma>كَيْفَ</lemma>
+</res>
+<res>
+<word>يمكن</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>وقاية</word> 
+ <lemma>وِقَايَة</lemma>
+</res>
+<res>
+<word>الطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>الرضيع</word> 
+ <lemma>رَضِيع</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>مضاعفات</word> 
+ <lemma>مُضَاعَفَة</lemma>
+</res>
+<res>
+<word>الإسهال</word> 
+ <lemma>إِسْهَال</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>قد</word> 
+ <lemma>قَدْ</lemma>
+</res>
+<res>
+<word>يؤدي</word> 
+ <lemma>أَدَّى</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>الموت</word> 
+ <lemma>مَوْت</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>بتشجيع</word> 
+ <lemma>تَشْجِيع</lemma>
+</res>
+<res>
+<word>الأمهات</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الرضاعة</word> 
+ <lemma>رَضَاع</lemma>
+</res>
+<res>
+<word>الطبيعية</word> 
+ <lemma>طَبِيعِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>أو</word> 
+ <lemma>أَوْ</lemma>
+</res>
+<res>
+<word>بخلط</word> 
+ <lemma>خِلْط</lemma>
+</res>
+<res>
+<word>مسحوق</word> 
+ <lemma>مَسْحُوق</lemma>
+</res>
+<res>
+<word> (</word> 
+ <lemma> (</lemma>
+</res>
+<res>
+<word>الأورالت</word> 
+ <lemma>الأورالت</lemma>
+</res>
+<res>
+<word>) </word> 
+ <lemma>) </lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>توفره</word> 
+ <lemma>وَفَّرَ</lemma>
+</res>
+<res>
+<word>المنظمة</word> 
+ <lemma>مُنَظَّمَة</lemma>
+</res>
+<res>
+<word>العالمية</word> 
+ <lemma>عَالَمِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>للصحة</word> 
+ <lemma>صِحَّة</lemma>
+</res>
+<res>
+<word>بسعر</word> 
+ <lemma>سِعْر</lemma>
+</res>
+<res>
+<word>زهيد</word> 
+ <lemma>زَهِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>والمحتوى</word> 
+ <lemma>مُحْتَوًى</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>ملح</word> 
+ <lemma>مُلِحّ</lemma>
+</res>
+<res>
+<word>وسكر</word> 
+ <lemma>سُكْر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>لتر</word> 
+ <lemma>رَأَى</lemma>
+</res>
+<res>
+<word>ماء</word> 
+ <lemma>مَاء</lemma>
+</res>
+<res>
+<word>مغلي</word> 
+ <lemma>مَغْلِيّ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وإذا</word> 
+ <lemma>إِذَا</lemma>
+</res>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يكن</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>موجودا</word> 
+ <lemma>مَوْجُود</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>توضع</word> 
+ <lemma>وَضَعَ</lemma>
+</res>
+<res>
+<word>ملعقة</word> 
+ <lemma>مِلْعَقَة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>ملح</word> 
+ <lemma>مُلِحّ</lemma>
+</res>
+<res>
+<word>وعشر</word> 
+ <lemma>عَشْر</lemma>
+</res>
+<res>
+<word>قطع</word> 
+ <lemma>قَطَعَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>السكر</word> 
+ <lemma>سُكَّر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>لتر</word> 
+ <lemma>رَأَى</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الماء</word> 
+ <lemma>مَاء</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْد</lemma>
+</res>
+<res>
+<word>غليه</word> 
+ <lemma>غُلّ</lemma>
+</res>
+<res>
+<word>وتبريده</word> 
+ <lemma>تَبْرِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويعطى</word> 
+ <lemma>أَعْطَى</lemma>
+</res>
+<res>
+<word>الطفل</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعْدَ</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>إسهال</word> 
+ <lemma>إِسْهَال</lemma>
+</res>
+<res>
+<word>مقدار</word> 
+ <lemma>مِقْدَار</lemma>
+</res>
+<res>
+<word>كأس</word> 
+ <lemma>كَأْس</lemma>
+</res>
+<res>
+<word>صغير</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>منه</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>لتفادي</word> 
+ <lemma>تَفَاد</lemma>
+</res>
+<res>
+<word>حالات</word> 
+ <lemma>حَالَة</lemma>
+</res>
+<res>
+<word>الإسهال</word> 
+ <lemma>إِسْهَال</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولو</word> 
+ <lemma>لَوْ</lemma>
+</res>
+<res>
+<word>فعلت</word> 
+ <lemma>فَعَلَ</lemma>
+</res>
+<res>
+<word>الأمهات</word> 
+ <lemma>أُمّ</lemma>
+</res>
+<res>
+<word>هكذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>لانخفضت</word> 
+ <lemma>انْخَفَضَ</lemma>
+</res>
+<res>
+<word>نسبة</word> 
+ <lemma>نِسْبَة</lemma>
+</res>
+<res>
+<word>الوفيات</word> 
+ <lemma>وَفَاة</lemma>
+</res>
+<res>
+<word>بنسبة</word> 
+ <lemma>نِسْبَة</lemma>
+</res>
+<res>
+<word>ثمانين</word> 
+ <lemma>ثَمَان</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>المئة</word> 
+ <lemma>مِئَة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

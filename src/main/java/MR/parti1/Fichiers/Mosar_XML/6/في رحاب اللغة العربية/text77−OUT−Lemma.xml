@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>اعلم</word> 
+ <lemma>عَلِمَ</lemma>
+</res>
+<res>
+<word>يا</word> 
+ <lemma>يَا</lemma>
+</res>
+<res>
+<word>صغيرا</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>قريبا</word> 
+ <lemma>قَرِيب</lemma>
+</res>
+<res>
+<word>ستدمج</word> 
+ <lemma>ادَّمَجَ</lemma>
+</res>
+<res>
+<word>الساعة</word> 
+ <lemma>سَاعَة</lemma>
+</res>
+<res>
+<word>اليدوية</word> 
+ <lemma>يَدَوِيّ</lemma>
+</res>
+<res>
+<word>مع</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>النقال</word> 
+ <lemma>نَقَّال</lemma>
+</res>
+<res>
+<word>ليصبحا</word> 
+ <lemma>أَصْبَحَ</lemma>
+</res>
+<res>
+<word>جهازا</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>واحدا</word> 
+ <lemma>وَاحِد</lemma>
+</res>
+<res>
+<word>يمكنك</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>استخدامه</word> 
+ <lemma>اسْتِخْدَام</lemma>
+</res>
+<res>
+<word>بسهولة</word> 
+ <lemma>سُهُولَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ويوفر</word> 
+ <lemma>وَفَّرَ</lemma>
+</res>
+<res>
+<word>لك</word> 
+ <lemma>لِي</lemma>
+</res>
+<res>
+<word>معرفة</word> 
+ <lemma>مَعْرِفَة</lemma>
+</res>
+<res>
+<word>الوقت</word> 
+ <lemma>وَقْت</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>بالإضافة</word> 
+ <lemma>إِضَافَة</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>الإتصالات</word> 
+ <lemma>الإتصالات</lemma>
+</res>
+<res>
+<word>المحلية</word> 
+ <lemma>مَحَلِّيّ</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>الدولية</word> 
+ <lemma>دُوَلِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>لاشك</word> 
+ <lemma>شَكَا</lemma>
+</res>
+<res>
+<word>يا</word> 
+ <lemma>يَا</lemma>
+</res>
+<res>
+<word>مستعمل</word> 
+ <lemma>مُسْتَعْمَل</lemma>
+</res>
+<res>
+<word>الساعة</word> 
+ <lemma>سَاعَة</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>ساعتك</word> 
+ <lemma>سَاعَى</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>لن</word> 
+ <lemma>لَنْ</lemma>
+</res>
+<res>
+<word>يزيد</word> 
+ <lemma>زَادَ</lemma>
+</res>
+<res>
+<word>حجمها</word> 
+ <lemma>حَجْم</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>علبة</word> 
+ <lemma>عُلْبَة</lemma>
+</res>
+<res>
+<word>الثقاب</word> 
+ <lemma>ثَقَّاب</lemma>
+</res>
+<res>
+<word>الصغيرة</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ومن</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>ثم</word> 
+ <lemma>ثَمَّ</lemma>
+</res>
+<res>
+<word>يمكنك</word> 
+ <lemma>أَمْكَنَ</lemma>
+</res>
+<res>
+<word>ارتداؤها</word> 
+ <lemma>ارْتِدَاء</lemma>
+</res>
+<res>
+<word>فوق</word> 
+ <lemma>فَوْق</lemma>
+</res>
+<res>
+<word>معصم</word> 
+ <lemma>مُعْصَم</lemma>
+</res>
+<res>
+<word>اليد</word> 
+ <lemma>يَد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>دون</word> 
+ <lemma>دُونَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>تشغل</word> 
+ <lemma>شَغَلَ</lemma>
+</res>
+<res>
+<word>حيزا</word> 
+ <lemma>حَيِّز</lemma>
+</res>
+<res>
+<word>كبيرا</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>إذ</word> 
+ <lemma>إِذْ</lemma>
+</res>
+<res>
+<word>أنها</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>عملية</word> 
+ <lemma>عَمَلِيَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>تمثل</word> 
+ <lemma>مَثَلَ</lemma>
+</res>
+<res>
+<word>عبئا</word> 
+ <lemma>عِبْء</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>مستخدمها</word> 
+ <lemma>مُسْتَخْدَم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>وستزود</word> 
+ <lemma>زَوَّدَ</lemma>
+</res>
+<res>
+<word>الساعة</word> 
+ <lemma>سَاعَة</lemma>
+</res>
+<res>
+<word>الهاتف</word> 
+ <lemma>هَاتِف</lemma>
+</res>
+<res>
+<word>بكاميرا</word> 
+ <lemma>كَامِيرَا</lemma>
+</res>
+<res>
+<word>تلفازية</word> 
+ <lemma>تلفازية</lemma>
+</res>
+<res>
+<word>دقيقة</word> 
+ <lemma>دَقِيق</lemma>
+</res>
+<res>
+<word>تمكن</word> 
+ <lemma>مَكَّنَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>رؤية</word> 
+ <lemma>رُؤْيَة</lemma>
+</res>
+<res>
+<word>المتحدثين</word> 
+ <lemma>مُتَحَدِّث</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فتجعل</word> 
+ <lemma>جَعَلَ</lemma>
+</res>
+<res>
+<word>الاتصال</word> 
+ <lemma>اتِّصَال</lemma>
+</res>
+<res>
+<word>مسموعا</word> 
+ <lemma>مَسْمُوع</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>منظورا</word> 
+ <lemma>مَنْظُور</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>بعد</word> 
+ <lemma>بَعُدَ</lemma>
+</res>
+<res>
+<word>آلاف</word> 
+ <lemma>أَلْف</lemma>
+</res>
+<res>
+<word>الكيلومترات</word> 
+ <lemma>مِتْر</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>بني</word> 
+ <lemma>بُنَيّ</lemma>
+</res>
+<res>
+<word>الصغير</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+<res>
+<word>اليوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>عاد</word> 
+ <lemma>عَاد</lemma>
+</res>
+<res>
+<word>الأطفال</word> 
+ <lemma>طِفْل</lemma>
+</res>
+<res>
+<word>مثلك</word> 
+ <lemma>مِثْل</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المدرسة</word> 
+ <lemma>مَدْرَسَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>تلوح</word> 
+ <lemma>لَوَّحَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>وجوههم</word> 
+ <lemma>وَجْه</lemma>
+</res>
+<res>
+<word>علامات</word> 
+ <lemma>عَلَامَة</lemma>
+</res>
+<res>
+<word>الرضا</word> 
+ <lemma>رِضَا</lemma>
+</res>
+<res>
+<word>والسرور</word> 
+ <lemma>سُرُور</lemma>
+</res>
+<res>
+<word>وكلهم</word> 
+ <lemma>كُلّ</lemma>
+</res>
+<res>
+<word>شوق</word> 
+ <lemma>شَوْق</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>المعرفة</word> 
+ <lemma>مَعْرِفَة</lemma>
+</res>
+<res>
+<word>والتعلم</word> 
+ <lemma>تَعَلُّم</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>عادوا</word> 
+ <lemma>عَادَ</lemma>
+</res>
+<res>
+<word>كما</word> 
+ <lemma>كَمّ</lemma>
+</res>
+<res>
+<word>كنا</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>نعود</word> 
+ <lemma>عَادَ</lemma>
+</res>
+<res>
+<word>يوم</word> 
+ <lemma>يَوْم</lemma>
+</res>
+<res>
+<word>كنا</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>صغارا</word> 
+ <lemma>صَغِيرَة</lemma>
+</res>
+<res>
+<word>مثلك</word> 
+ <lemma>مِثْل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>نحترم</word> 
+ <lemma>احْتَرَمَ</lemma>
+</res>
+<res>
+<word>الكبير</word> 
+ <lemma>كَبِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ونحن</word> 
+ <lemma>نَحْنُ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الصغير</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>نتعلم</word> 
+ <lemma>تَعَلَّمَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>المجتهد</word> 
+ <lemma>مُجْتَهِد</lemma>
+</res>
+<res>
+<word> ، </word> 
+ <lemma> ، </lemma>
+</res>
+<res>
+<word>ونعلم</word> 
+ <lemma>عَلِمَ</lemma>
+</res>
+<res>
+<word>الضعيف</word> 
+ <lemma>ضَعِيف</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وكنا</word> 
+ <lemma>كَانَ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>أَكَلَ</lemma>
+</res>
+<res>
+<word>لحظة</word> 
+ <lemma>لَحْظَة</lemma>
+</res>
+<res>
+<word>نقضي</word> 
+ <lemma>قَضَى</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الجهل</word> 
+ <lemma>جَهْل</lemma>
+</res>
+<res>
+<word>وندنو</word> 
+ <lemma>دَنَا</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>نور</word> 
+ <lemma>نُور</lemma>
+</res>
+<res>
+<word>المعرفة</word> 
+ <lemma>مَعْرِفَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>خطوات</word> 
+ <lemma>خَطْوَة</lemma>
+</res>
+<res>
+<word>بلا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>ملل</word> 
+ <lemma>مَلَل</lemma>
+</res>
+<res>
+<word>ولا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>كلل</word> 
+ <lemma>كَلَّلَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>تشجع</word> 
+ <lemma>شَجَّعَ</lemma>
+</res>
+<res>
+<word>إذن</word> 
+ <lemma>إِذْن</lemma>
+</res>
+<res>
+<word>أيها</word> 
+ <lemma>أَيّ</lemma>
+</res>
+<res>
+<word>الجندي</word> 
+ <lemma>جُنْدِيّ</lemma>
+</res>
+<res>
+<word>الصغير</word> 
+ <lemma>صَغِير</lemma>
+</res>
+<res>
+<word>، (( </word> 
+ <lemma>، (( </lemma>
+</res>
+<res>
+<word>واعلم</word> 
+ <lemma>عَلِمَ</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>أسلحتك</word> 
+ <lemma>سِلْحَة</lemma>
+</res>
+<res>
+<word>هي</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>كتبك</word> 
+ <lemma>كَتَبَ</lemma>
+</res>
+<res>
+<word>وأدواتك</word> 
+ <lemma>أَدَاة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>ميدانك</word> 
+ <lemma>مَيْدَان</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>قسمك</word> 
+ <lemma>قَسَّمَ</lemma>
+</res>
+<res>
+<word>ومدرستك</word> 
+ <lemma>مُدَرِّس</lemma>
+</res>
+<res>
+<word>))، </word> 
+ <lemma>))، </lemma>
+</res>
+<res>
+<word>وأن</word> 
+ <lemma>أَنْ</lemma>
+</res>
+<res>
+<word>عدوك</word> 
+ <lemma>عَدُوّ</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>الجهل</word> 
+ <lemma>جَهْل</lemma>
+</res>
+<res>
+<word>والأمية</word> 
+ <lemma>أُمِّيَّة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وأن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>هدفك</word> 
+ <lemma>هَدْف</lemma>
+</res>
+<res>
+<word>الأعلى</word> 
+ <lemma>أَعْلَى</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>هذه</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>المعركة</word> 
+ <lemma>مَعْرَكَة</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>تقدم</word> 
+ <lemma>قَدِمَ</lemma>
+</res>
+<res>
+<word>وطنك</word> 
+ <lemma>وَطَن</lemma>
+</res>
+<res>
+<word>وسمو</word> 
+ <lemma>سُمُوّ</lemma>
+</res>
+<res>
+<word>أمتك</word> 
+ <lemma>أُمَّة</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

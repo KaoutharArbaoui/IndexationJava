@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>لم</word> 
+ <lemma>لَمْ</lemma>
+</res>
+<res>
+<word>يعد</word> 
+ <lemma>عَادَ</lemma>
+</res>
+<res>
+<word>الهواء</word> 
+ <lemma>هَوَاء</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>نستنشقه</word> 
+ <lemma>اسْتَنْشَقَ</lemma>
+</res>
+<res>
+<word>نقيا</word> 
+ <lemma>نَقِيّ</lemma>
+</res>
+<res>
+<word>عليا</word> 
+ <lemma>أَعْلَى</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>بسبب</word> 
+ <lemma>سَبَب</lemma>
+</res>
+<res>
+<word>كثرة</word> 
+ <lemma>كَثْرَة</lemma>
+</res>
+<res>
+<word>الملوثات</word> 
+ <lemma>مُلَوِّث</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>منها</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>التدخين</word> 
+ <lemma>تَدْخِين</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فمن</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>جهة</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>أولى</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يضر</word> 
+ <lemma>ضَرَّ</lemma>
+</res>
+<res>
+<word>التدخين</word> 
+ <lemma>تَدْخِين</lemma>
+</res>
+<res>
+<word>بالصحة</word> 
+ <lemma>صِحَّة</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>لأنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>ينتج</word> 
+ <lemma>أَنْتَجَ</lemma>
+</res>
+<res>
+<word>أول</word> 
+ <lemma>أَوَّل</lemma>
+</res>
+<res>
+<word>أوكسيد</word> 
+ <lemma>أوكسيد</lemma>
+</res>
+<res>
+<word>الكربون</word> 
+ <lemma>كَرْبُون</lemma>
+</res>
+<res>
+<word>،</word> 
+ <lemma>،</lemma>
+</res>
+<res>
+<word>الذي</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>ينخر</word> 
+ <lemma>نَخِرَ</lemma>
+</res>
+<res>
+<word>رئتي</word> 
+ <lemma>رِئَة</lemma>
+</res>
+<res>
+<word>المدخن</word> 
+ <lemma>مُدَخِّن</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>يتلف</word> 
+ <lemma>أَتْلَفَ</lemma>
+</res>
+<res>
+<word>جهازه</word> 
+ <lemma>جِهَاز</lemma>
+</res>
+<res>
+<word>التنفسي</word> 
+ <lemma>تَنَفُّسِيّ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>جهة</word> 
+ <lemma>جِهَة</lemma>
+</res>
+<res>
+<word>ثانية</word> 
+ <lemma>ثَانِي</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>يساهم</word> 
+ <lemma>سَاهَمَ</lemma>
+</res>
+<res>
+<word>التدخين</word> 
+ <lemma>تَدْخِين</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>تلويث</word> 
+ <lemma>تَلْوِيث</lemma>
+</res>
+<res>
+<word>البيئة</word> 
+ <lemma>بِيئَة</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>ذلك</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِين</lemma>
+</res>
+<res>
+<word>نرغم</word> 
+ <lemma>أَرْغَمَ</lemma>
+</res>
+<res>
+<word>غيرنا</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يستنشقوا</word> 
+ <lemma>اسْتَنْشَقَ</lemma>
+</res>
+<res>
+<word>معنا</word> 
+ <lemma>مَعَ</lemma>
+</res>
+<res>
+<word>دخان</word> 
+ <lemma>دُخَان</lemma>
+</res>
+<res>
+<word>السجائر</word> 
+ <lemma>سِجَارَة</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>فيعانون</word> 
+ <lemma>عَانَى</lemma>
+</res>
+<res>
+<word>ضيقا</word> 
+ <lemma>ضِيق</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>التنفس</word> 
+ <lemma>تَنَفُّس</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>كأنهم</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>يدخنون</word> 
+ <lemma>دَخَّنَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>ثم</word> 
+ <lemma>ثَمّ</lemma>
+</res>
+<res>
+<word>إن</word> 
+ <lemma>إِنَّ</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>التدخين</word> 
+ <lemma>تَدْخِين</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>هَذَا</lemma>
+</res>
+<res>
+<word>هو</word> 
+ <lemma>هُوَ</lemma>
+</res>
+<res>
+<word>المهم</word> 
+ <lemma>مُهِمّ</lemma>
+</res>
+<res>
+<word>اعتداء</word> 
+ <lemma>اعْتِدَاء</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حقوق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>غيرنا</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>الناس</word> 
+ <lemma>نَاس</lemma>
+</res>
+<res>
+<word>الذين</word> 
+ <lemma>اَلَّذِي</lemma>
+</res>
+<res>
+<word>لا</word> 
+ <lemma>لَا</lemma>
+</res>
+<res>
+<word>يدخنون</word> 
+ <lemma>دَخَّنَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ذنبهم</word> 
+ <lemma>ذَنَبَ</lemma>
+</res>
+<res>
+<word>حين</word> 
+ <lemma>حِين</lemma>
+</res>
+<res>
+<word>يرغمون</word> 
+ <lemma>أَرْغَمَ</lemma>
+</res>
+<res>
+<word>بطريقة</word> 
+ <lemma>طَرِيقَة</lemma>
+</res>
+<res>
+<word>غير</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>مباشرة</word> 
+ <lemma>مُبَاشِر</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>استنشاق</word> 
+ <lemma>اسْتِنْشَاق</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>ينبعث</word> 
+ <lemma>انْبَعَثَ</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مِنْ</lemma>
+</res>
+<res>
+<word>السيجارة</word> 
+ <lemma>السيجارة</lemma>
+</res>
+<res>
+<word>من</word> 
+ <lemma>مَنْ</lemma>
+</res>
+<res>
+<word>سموم</word> 
+ <lemma>سُمّ</lemma>
+</res>
+<res>
+<word>؟</word> 
+ <lemma>؟</lemma>
+</res>
+<res>
+<word>!</word> 
+ <lemma>!</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>الخلاصة</word> 
+ <lemma>خُلَاصَة</lemma>
+</res>
+<res>
+<word>أنه</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>وجب</word> 
+ <lemma>جُبّ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>المدخنين</word> 
+ <lemma>مُدَخِّن</lemma>
+</res>
+<res>
+<word>الإقلاع</word> 
+ <lemma>إِقْلَاع</lemma>
+</res>
+<res>
+<word>عن</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>هذا</word> 
+ <lemma>ذَا</lemma>
+</res>
+<res>
+<word>السلوك</word> 
+ <lemma>سُلُوك</lemma>
+</res>
+<res>
+<word>المشين</word> 
+ <lemma>مُشَيِّن</lemma>
+</res>
+<res>
+<word>؛</word> 
+ <lemma>؛</lemma>
+</res>
+<res>
+<word>فبالإقلاع</word> 
+ <lemma>إِقْلَاع</lemma>
+</res>
+<res>
+<word>عنه</word> 
+ <lemma>عَنْ</lemma>
+</res>
+<res>
+<word>نحافظ</word> 
+ <lemma>حَافَظَ</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>حقنا</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>حقوق</word> 
+ <lemma>حَقّ</lemma>
+</res>
+<res>
+<word>غيرنا</word> 
+ <lemma>غَيْر</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>الصحة</word> 
+ <lemma>صِحَّة</lemma>
+</res>
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>الحياة</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>النظيفة</word> 
+ <lemma>نَظِيف</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>و</word> 
+ <lemma>وَ</lemma>
+</res>
+<res>
+<word>قيل</word> 
+ <lemma>قَالَ</lemma>
+</res>
+<res>
+<word>:</word> 
+ <lemma>:</lemma>
+</res>
+<res>
+<word> ( </word> 
+ <lemma> ( </lemma>
+</res>
+<res>
+<word>حريتك</word> 
+ <lemma>حُرِّيَّة</lemma>
+</res>
+<res>
+<word>تنتهي</word> 
+ <lemma>انْتَهَى</lemma>
+</res>
+<res>
+<word>عندما</word> 
+ <lemma>عِنْدَ</lemma>
+</res>
+<res>
+<word>تبدأ</word> 
+ <lemma>بَدَأَ</lemma>
+</res>
+<res>
+<word>حرية</word> 
+ <lemma>حُرِّيَّة</lemma>
+</res>
+<res>
+<word>الآخرين</word> 
+ <lemma>آخَر</lemma>
+</res>
+<res>
+<word>)</word> 
+ <lemma>)</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>

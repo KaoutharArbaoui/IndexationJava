@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <Lemmas>
+<res>
+<word>إن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>تنظيم</word> 
+ <lemma>تَنْظِيم</lemma>
+</res>
+<res>
+<word>الطاقة</word> 
+ <lemma>طَاقَة</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>نقطة</word> 
+ <lemma>نُقْطَة</lemma>
+</res>
+<res>
+<word>التماس</word> 
+ <lemma>تَمَاسّ</lemma>
+</res>
+<res>
+<word>الكهربائي</word> 
+ <lemma>كَهْرُبَائِيّ</lemma>
+</res>
+<res>
+<word>يولد</word> 
+ <lemma>وَلَدَ</lemma>
+</res>
+<res>
+<word>التيار</word> 
+ <lemma>تَيَّار</lemma>
+</res>
+<res>
+<word>الكهربائي</word> 
+ <lemma>كَهْرُبَائِيّ</lemma>
+</res>
+<res>
+<word>توليدا</word> 
+ <lemma>تَوْلِيد</lemma>
+</res>
+<res>
+<word>سريعا</word> 
+ <lemma>سَرِيع</lemma>
+</res>
+<res>
+<word>منظما</word> 
+ <lemma>مُنَظَّم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وينتشر</word> 
+ <lemma>انْتَشَرَ</lemma>
+</res>
+<res>
+<word>الدفء</word> 
+ <lemma>دِفْء</lemma>
+</res>
+<res>
+<word>والحرارة</word> 
+ <lemma>حَرَارَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>فيضيء</word> 
+ <lemma>أَضَاءَ</lemma>
+</res>
+<res>
+<word>المصباح</word> 
+ <lemma>مِصْبَاح</lemma>
+</res>
+<res>
+<word>إضاءة</word> 
+ <lemma>إِضَاءَة</lemma>
+</res>
+<res>
+<word>واضحة</word> 
+ <lemma>وَاضِح</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>ز</word> 
+ <lemma>وَزَى</lemma>
+</res>
+<res>
+<word>تبرد</word> 
+ <lemma>بَرَدَ</lemma>
+</res>
+<res>
+<word>الثلاجة</word> 
+ <lemma>ثَلَّاجَة</lemma>
+</res>
+<res>
+<word>برودة</word> 
+ <lemma>بُرُود</lemma>
+</res>
+<res>
+<word>منتظمة</word> 
+ <lemma>مُنْتَظِم</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتغلي</word> 
+ <lemma>تَغَلّ</lemma>
+</res>
+<res>
+<word>السخانة</word> 
+ <lemma>سَخَّان</lemma>
+</res>
+<res>
+<word>الماء</word> 
+ <lemma>مَاء</lemma>
+</res>
+<res>
+<word>إغلاء</word> 
+ <lemma>إِغْلَاء</lemma>
+</res>
+<res>
+<word>شديدا</word> 
+ <lemma>شَدِيد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتغسل</word> 
+ <lemma>أَغْسَلَ</lemma>
+</res>
+<res>
+<word>الغسالة</word> 
+ <lemma>غَسَّالَة</lemma>
+</res>
+<res>
+<word>غسلا</word> 
+ <lemma>غُسْل</lemma>
+</res>
+<res>
+<word>رائعا</word> 
+ <lemma>رَائِع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتهرس</word> 
+ <lemma>هَرِسَ</lemma>
+</res>
+<res>
+<word>العصارة</word> 
+ <lemma>عَصَّار</lemma>
+</res>
+<res>
+<word>الفواكه</word> 
+ <lemma>فَاكِهَة</lemma>
+</res>
+<res>
+<word>هرسا</word> 
+ <lemma>هَرَس</lemma>
+</res>
+<res>
+<word>جيدا</word> 
+ <lemma>جَيِّد</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وترفع</word> 
+ <lemma>رَفَعَ</lemma>
+</res>
+<res>
+<word>المصاعد</word> 
+ <lemma>مِصْعَد</lemma>
+</res>
+<res>
+<word>الناس</word> 
+ <lemma>نَاس</lemma>
+</res>
+<res>
+<word>إلى</word> 
+ <lemma>إِلَى</lemma>
+</res>
+<res>
+<word>أعلى</word> 
+ <lemma>أَعْلَى</lemma>
+</res>
+<res>
+<word>البنايات</word> 
+ <lemma>البنايات</lemma>
+</res>
+<res>
+<word>رفعا</word> 
+ <lemma>رَفْع</lemma>
+</res>
+<res>
+<word>هادئا</word> 
+ <lemma>هَادِئ</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتتحرك</word> 
+ <lemma>تَحَرَّكَ</lemma>
+</res>
+<res>
+<word>القطارات</word> 
+ <lemma>قِطَار</lemma>
+</res>
+<res>
+<word>جيئة</word> 
+ <lemma>جَيْئَة</lemma>
+</res>
+<res>
+<word>وذهابا</word> 
+ <lemma>ذَهَاب</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتطبع</word> 
+ <lemma>طَبَعَ</lemma>
+</res>
+<res>
+<word>المطابع</word> 
+ <lemma>مَطْبَع</lemma>
+</res>
+<res>
+<word>الكتب</word> 
+ <lemma>كِتَاب</lemma>
+</res>
+<res>
+<word>والمجلات</word> 
+ <lemma>مَجَلَّة</lemma>
+</res>
+<res>
+<word>طبعا</word> 
+ <lemma>طَبْع</lemma>
+</res>
+<res>
+<word>سريعا</word> 
+ <lemma>سَرِيع</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وينتشر</word> 
+ <lemma>انْتَشَرَ</lemma>
+</res>
+<res>
+<word>النور</word> 
+ <lemma>نُور</lemma>
+</res>
+<res>
+<word>والخير</word> 
+ <lemma>خَيْر</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وتضج</word> 
+ <lemma>ضَجَّ</lemma>
+</res>
+<res>
+<word>الحياة</word> 
+ <lemma>حَيَاة</lemma>
+</res>
+<res>
+<word>بالحركة</word> 
+ <lemma>حَرَكَة</lemma>
+</res>
+<res>
+<word>والنشاط</word> 
+ <lemma>نَشَاط</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+<res>
+<word>فواجب</word> 
+ <lemma>وَاجِب</lemma>
+</res>
+<res>
+<word>علي</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وعليك</word> 
+ <lemma>عَلَا</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وعلى</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>كل</word> 
+ <lemma>أَكَلَ</lemma>
+</res>
+<res>
+<word>مواطن</word> 
+ <lemma>مُوَاطِن</lemma>
+</res>
+<res>
+<word>،</word> 
+ <lemma>،</lemma>
+</res>
+<res>
+<word>أن</word> 
+ <lemma>أَنَّ</lemma>
+</res>
+<res>
+<word>نحافظ</word> 
+ <lemma>حَافَظَ</lemma>
+</res>
+<res>
+<word>جميعا</word> 
+ <lemma>جَمِيع</lemma>
+</res>
+<res>
+<word>على</word> 
+ <lemma>عَلَى</lemma>
+</res>
+<res>
+<word>الطاقة</word> 
+ <lemma>طَاقَة</lemma>
+</res>
+<res>
+<word>، </word> 
+ <lemma>، </lemma>
+</res>
+<res>
+<word>وننظم</word> 
+ <lemma>نَظَّمَ</lemma>
+</res>
+<res>
+<word>استعمالها</word> 
+ <lemma>اسْتِعْمَال</lemma>
+</res>
+<res>
+<word>في</word> 
+ <lemma>فِي</lemma>
+</res>
+<res>
+<word>ما</word> 
+ <lemma>مَا</lemma>
+</res>
+<res>
+<word>يفيد</word> 
+ <lemma>أَفَادَ</lemma>
+</res>
+<res>
+<word>وينفع</word> 
+ <lemma>نَفَعَ</lemma>
+</res>
+<res>
+<word>.</word> 
+ <lemma>.</lemma>
+</res>
+
+</Lemmas>
